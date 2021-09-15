@@ -4,6 +4,5 @@ npm-debug.log
 lib
 .idea
 .npmrc
-dist/
 build/
 .rpt2_cache
